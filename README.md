@@ -12,7 +12,7 @@ stevenqian.github.io
 
 ## 版本库地址
 
-支持三种访问协议：
+支持两种访问协议：
 
 * HTTP协议: `https://github.com/stevenqian/stevenqian.github.io` 。
 * SSH协议: `ssh://github.com/stevenqian/stevenqian.github.io` 。
