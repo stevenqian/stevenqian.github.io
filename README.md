@@ -22,3 +22,8 @@ stevenqian.github.io
 操作示例：
 
     $ git clone git://github.com/stevenqian/stevenqian.github.io
+
+$ git add README.md
+$ git commit -m "README for this project."
+
+$ git push origin master
